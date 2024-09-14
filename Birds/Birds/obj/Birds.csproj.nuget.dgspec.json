@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\Birds\\Birds\\Birds.csproj": {}
+    "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\Birds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\Birds\\Birds\\Birds.csproj": {
+    "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\Birds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\Birds\\Birds\\Birds.csproj",
+        "projectUniqueName": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\Birds.csproj",
         "projectName": "Birds",
-        "projectPath": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\Birds\\Birds\\Birds.csproj",
+        "projectPath": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\Birds.csproj",
         "packagesPath": "C:\\Users\\Skuta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\Birds\\Birds\\obj\\",
+        "outputPath": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

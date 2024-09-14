@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NkQgouX0QQA=",
+  "dgSpecHash": "3MqzcTWTtCo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\Birds\\Birds\\Birds.csproj",
+  "projectFilePath": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\Birds.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Skuta\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\Skuta\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",

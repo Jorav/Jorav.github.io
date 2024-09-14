@@ -74,6 +74,10 @@ namespace Birds.src
             returnedList.Add(new WorldEntity(textureParticle, new Vector2(500, 5)));
             returnedList.Add(new WorldEntity(textureParticle, new Vector2(110, 0)));
             returnedList.Add(new WorldEntity(textureParticle, new Vector2(232, 300)));
+            returnedList.Add(new WorldEntity(textureParticle, new Vector2(342, 243)));
+            returnedList.Add(new WorldEntity(textureParticle, new Vector2(1111, 1111)));
+            returnedList.Add(new WorldEntity(textureParticle, new Vector2(110, 1112)));
+            returnedList.Add(new WorldEntity(textureParticle, new Vector2(232, 535)));
 
             //string[] ConfigVar = EntityFactory.ReadConfig();
             //GRAVITY = float.Parse(ConfigVar[2]);

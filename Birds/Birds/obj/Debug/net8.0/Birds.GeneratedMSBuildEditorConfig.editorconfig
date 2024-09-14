@@ -13,27 +13,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Birds
 build_property.RootNamespace = Birds
-build_property.ProjectDir = C:\Users\Skuta\Documents\free-time\Programmering\monogame-repos\Ny mapp\browser\Birds\Birds\
+build_property.ProjectDir = C:\Users\Skuta\Documents\free-time\Programmering\monogame-repos\Birds\browser\Jorav.github.io\Birds\Birds\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Skuta\Documents\free-time\Programmering\monogame-repos\Ny mapp\browser\Birds\Birds
+build_property.MSBuildProjectDirectory = C:\Users\Skuta\Documents\free-time\Programmering\monogame-repos\Birds\browser\Jorav.github.io\Birds\Birds
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Ny mapp/browser/Birds/Birds/App.razor]
+[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Birds/browser/Jorav.github.io/Birds/Birds/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Ny mapp/browser/Birds/Birds/Pages/Index.razor]
+[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Birds/browser/Jorav.github.io/Birds/Birds/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Ny mapp/browser/Birds/Birds/_Imports.razor]
+[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Birds/browser/Jorav.github.io/Birds/Birds/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Ny mapp/browser/Birds/Birds/MainLayout.razor]
+[C:/Users/Skuta/Documents/free-time/Programmering/monogame-repos/Birds/browser/Jorav.github.io/Birds/Birds/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ihecno6vqx
