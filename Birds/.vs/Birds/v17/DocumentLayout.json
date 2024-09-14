@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{332B86CB-BFCC-4482-8037-F5BA7BDCAC32}|Birds\\Birds.csproj|c:\\users\\skuta\\documents\\free-time\\programmering\\monogame-repos\\birds\\browser\\jorav.github.io\\birds\\birds\\src\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B86CB-BFCC-4482-8037-F5BA7BDCAC32}|Birds\\Birds.csproj|solutionrelative:birds\\src\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{332B86CB-BFCC-4482-8037-F5BA7BDCAC32}|Birds\\Birds.csproj|c:\\users\\skuta\\documents\\free-time\\programmering\\monogame-repos\\birds\\browser\\jorav.github.io\\birds\\birds\\src\\entityfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{332B86CB-BFCC-4482-8037-F5BA7BDCAC32}|Birds\\Birds.csproj|solutionrelative:birds\\src\\entityfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,11 +63,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\Game1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\Game1.cs",
@@ -75,8 +79,25 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\src\\Camera.cs",
+              "RelativeDocumentMoniker": "Birds\\src\\Camera.cs",
+              "ToolTip": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\src\\Camera.cs",
+              "RelativeToolTip": "Birds\\src\\Camera.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:29:13.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EntityFactory.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\src\\EntityFactory.cs",
               "RelativeDocumentMoniker": "Birds\\src\\EntityFactory.cs",
@@ -88,12 +109,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\src\\Game1.cs",
               "RelativeDocumentMoniker": "Birds\\src\\Game1.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Birds.csproj",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\Birds.csproj",
               "RelativeDocumentMoniker": "Birds\\Birds.csproj",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.razor.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Birds\\browser\\Jorav.github.io\\Birds\\Birds\\Pages\\Index.razor.cs",
               "RelativeDocumentMoniker": "Birds\\Pages\\Index.razor.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\wwwroot\\index.html",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Properties\\launchSettings.json",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BirdsBrowserContent.mgcb",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Content\\BirdsBrowserContent.mgcb",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Content\\BirdsBrowserContent.mgcb",
@@ -165,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Pages\\Index.razor",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Program.cs",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\_Imports.razor",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\_Imports.razor",
@@ -201,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AABBTree.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\BVH\\AABBTree.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\BVH\\AABBTree.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AABBNode.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\BVH\\AABBNode.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\BVH\\AABBNode.cs",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Camera.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\Camera.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\src\\Camera.cs",
@@ -237,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.razor.cs",
               "DocumentMoniker": "C:\\Users\\Skuta\\Documents\\free-time\\Programmering\\monogame-repos\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Pages\\Index.razor.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Ny mapp\\browser\\BirdsBrowser\\BirdsBrowser\\Pages\\Index.razor.cs",

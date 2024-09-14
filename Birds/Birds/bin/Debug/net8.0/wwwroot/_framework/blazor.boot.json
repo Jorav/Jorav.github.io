@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Birds",
   "resources": {
-    "hash": "sha256-Z8hCZFNRbriXcSqQSKdc6ppjvp883Q2Cc8JL5vAtdCg=",
+    "hash": "sha256-IG/UFcVX/1+QjI+59niCAOcwnBloY0tLNAmQ0gIavwM=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.roimt6v2i2.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -220,10 +220,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "Birds.wasm": "sha256-mtdt+8OjE/TjCXpTiOmOnThyjnd3axH7F7qShw0wJ5g="
+      "Birds.wasm": "sha256-/e759gT4wop0UjnggM/Ppzigk8e1XMl4ypoPsoAr9LA="
     },
     "pdb": {
-      "Birds.pdb": "sha256-q1TEBTxYEY+zyJCwLUUTYc3TLxSNbqUWx5FWJB+OgN4="
+      "Birds.pdb": "sha256-6I4bFr4DP4drBeMSpGnr/i0SfUq9dlk2vLh1QkJ32Ug="
     }
   },
   "cacheBootResources": true,

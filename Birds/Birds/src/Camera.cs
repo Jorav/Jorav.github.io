@@ -17,7 +17,7 @@ namespace Birds.src
         public float Width { get { return Game1.ScreenWidth / Zoom; } }
         public float Height { get { return Game1.ScreenHeight / Zoom; } }
         public bool AutoAdjustZoom { get; set; }
-        public float GameZoom { get { if (Controller != null) return 2.0f*Game1.ScreenHeight / (Game1.ScreenHeight + 1 * Controller.Radius); else return 1; } }
+        public float GameZoom { get { if (Controller != null) return 1.5f*Game1.ScreenHeight / (Game1.ScreenHeight + 1 * Controller.Radius); else return 1; } }
         public AABBTree Controller { get; set; }
         private float zoomSpeed;
 
@@ -46,7 +46,7 @@ namespace Birds.src
                 AdjustPosition();
             if (AutoAdjustZoom)
             {
-                //AdjustZoom(GameZoom);
+                AdjustZoom(GameZoom);
             }
 
             Rotation = 0;
@@ -56,7 +56,7 @@ namespace Birds.src
         private void AdjustPosition()
         {
             PreviousPosition = Position;
-            Position = PreviousPosition + 0.001f*(Controller.Position-PreviousPosition);
+            Position = PreviousPosition + 0.1f*(Controller.Position-PreviousPosition);
         }
 
         private void AdjustZoom(float optimalZoom)
