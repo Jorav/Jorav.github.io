@@ -1,0 +1,3 @@
+[submodule "Birds/Birds-Browser"]
+	path = Birds/Birds-Browser
+	url = https://github.com/Jorav/Birds-Browser
